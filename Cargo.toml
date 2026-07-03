@@ -1,0 +1,9 @@
+[package]
+name = "flexible_vibration_table"
+version = "0.1.0"
+edition = "2024"
+description = "Rust SDK for Vibration Table"
+repository = "https://github.com/xiaoze-cn/flexvibtable-rs"
+readme = "README.md"
+
+[dependencies]
