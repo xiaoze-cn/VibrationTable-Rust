@@ -1,4 +1,4 @@
-# Flexvibtable Rust SDK
+# FP200
 
 柔性振动台 Rust SDK
 
@@ -6,7 +6,7 @@
 
 ```toml
 [dependencies]
-flexible_vibration_table = { git = "https://github.com/xiaoze-cn/flexvibtable-rs.git" }
+flexible_vibration_table = { git = "https://github.com/xiaoze-cn/FP200.git" }
 ```
 
 ## 示例
